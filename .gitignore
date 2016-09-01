@@ -1,10 +1,7 @@
+# NOTE: wildcards only apply to chars as part of files names folders nested inside folders are not ignored
+
 tempfile.txt
 
-kmm/*.log
-
-#MAC ONLY .DS_Store
-# NOTE: wildcards only apply to chars as part of files names
-#       folders nested inside folders are not ignored
 
 *.zip
 *.gz
